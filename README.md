@@ -12,10 +12,11 @@ The screen is split into two colored halves — red on top, blue on bottom — o
 - **Glanceable design** — large rounded numerals on bold color fields, readable at arm's length with no menus or extra taps.
 
 ## How to use
+<p align="left">
 <img src="preview_images/incoming-2A14B0BF-43C1-4F79-9472-05A544ABEE93.PNG" width="15%">
 <img src="preview_images/incoming-018E7E5E-BA8C-41C9-97E0-0F83045E5A54.PNG" width="15%">
 <img src="preview_images/incoming-2A14B0BF-43C1-4F79-9472-05A544ABEE93.PNG" width="15%">
-
+<p>
 | Action | Result |
 |---|---|
 | Tap red or blue side | +1 point for that side |
